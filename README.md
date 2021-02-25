@@ -1,1 +1,1 @@
-A simple graphql client-server project to understand how graphql works
+Playing around with node and graphql following this [freeCodeCamp](https://www-freecodecamp-org.cdn.ampproject.org/v/s/www.freecodecamp.org/news/get-started-with-graphql-and-nodejs/amp/?amp_js_v=a6&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#define-the-schema) article
